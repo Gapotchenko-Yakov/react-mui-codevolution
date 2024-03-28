@@ -1,10 +1,10 @@
 import "./App.css";
-import MuiNavbar from "./components/MuiNavbar";
+import MuiLink from "./components/MuiLink";
 
 function App() {
   return (
     <div className="App">
-      <MuiNavbar />
+      <MuiLink />
     </div>
   );
 }
